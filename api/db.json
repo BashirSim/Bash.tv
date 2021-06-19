@@ -1,0 +1,47 @@
+{
+  "streams": [
+    {
+      "title": "POE Grind PogU",
+      "description": "Doctor Farming",
+      "id": 1
+    },
+    {
+      "title": "Cod then OW",
+      "description": ":))",
+      "id": 2
+    },
+    {
+      "title": "Programming Stream",
+      "description": "JS + React & Redux",
+      "id": 3
+    },
+    {
+      "title": "CodeRed Run",
+      "description": "asdf jkl;j",
+      "id": 4
+    },
+    {
+      "title": "Coggers",
+      "description": "no1 ",
+      "userId": "101084251896195824548",
+      "id": 6
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "This change was made by PATCH request",
+      "userId": "101084251896195824548",
+      "id": 8
+    },
+    {
+      "title": "Reusable Form Code",
+      "description": "Applying the reusable form code (Edited)",
+      "id": 9
+    },
+    {
+      "title": "OBS",
+      "description": "Stream Test",
+      "userId": "101084251896195824548",
+      "id": 10
+    }
+  ]
+}

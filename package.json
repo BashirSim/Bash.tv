@@ -1,0 +1,23 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "Bash.tv is a video live streaming website",
+  "main": "index.js",
+  "dependencies": {
+    "create-react-app": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BashirSim/Bash.tv.git"
+  },
+  "author": "Mohammed Simsimieh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BashirSim/Bash.tv/issues"
+  },
+  "homepage": "https://github.com/BashirSim/Bash.tv#readme"
+}
