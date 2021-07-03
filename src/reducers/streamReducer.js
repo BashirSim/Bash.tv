@@ -17,8 +17,8 @@ export default (state = {}, action) => {
             return { ...state, [action.payload.id]: action.payload };
         case EDIT_STREAM:
             return { ...state, [action.payload.id]: action.payload };
-        // We didnt assign id here to the payload b/c the payload is the id itself
-        // at the actions, so we dont have to refrence the id proprty.
+        // We didnt assign id here to the payload b/c the payload is the id itself at
+        // the actions, so we dont have to refrence the id proprty.
         // omit function create a new object so we dont have to replace the prev. object.
         case DELETE_STREAM:
             return _.omit(state, action.payload)
