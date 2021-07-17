@@ -7,7 +7,7 @@ import reduxThunk from 'redux-thunk';
 import App from './components/App.js';
 import reducers from './reducers';
 
-//  How to debug 
+// How to debug 
 //  ?debug_session=gfgdfdgfd
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
